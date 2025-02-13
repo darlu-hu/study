@@ -1,1 +1,1 @@
-denoland/deno:ubuntu
+--platform=linux/arm64  nginx
