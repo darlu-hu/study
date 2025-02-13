@@ -1,2 +1,16 @@
 #--platform=linux/arm64  nginx
---platform=linux/arm64  centos
+#--platform=linux/arm64  centos
+#--platform=linux/arm64 mysql
+#--platform=linux/arm64 langgenius/dify-api:0.6.11
+#--platform=linux/arm64 langgenius/dify-web:0.6.11
+#--platform=linux/arm64 postgres:15-alpine
+#--platform=linux/arm64 redis:6-alpine
+#--platform=linux/arm64 semitechnologies/weaviate:1.19.0
+#--platform=linux/arm64 langgenius/dify-sandbox:0.2.1
+#--platform=linux/arm64 ubuntu/squid:latest
+#--platform=linux/arm64 searxng/searxng
+#--platform=linux/arm64 python:3.9
+#--platform=linux/arm64 harryliu888/audio-notes:latest
+#--platform=linux/arm64 postgres:12.19-bullseye
+#--platform=linux/arm64 harryliu888/cosyvoice
+#--platform=linux/arm64 harryliu888/funasr-online-server
