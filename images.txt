@@ -14,4 +14,4 @@
 #--platform=linux/arm64 postgres:12.19-bullseye
 #--platform=linux/arm64 harryliu888/cosyvoice
 #--platform=linux/arm64 harryliu888/funasr-online-server
-centos
+#centos #像这种操作系统的，就不要指定platform，否则Docker桌面版会提示platform不匹配；当然你的docker是linux版本的就不要紧
