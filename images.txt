@@ -17,4 +17,5 @@
 #centos #像这种操作系统的，就不要指定platform，否则Docker桌面版会提示platform不匹配；当然你的docker是linux版本的就不要紧
 #ubuntu
 #gvenzl/oracle-xe
-mcr.microsoft.com/mssql/server:2019-latest
+#mcr.microsoft.com/mssql/server:2019-latest
+JoaoEmanoelConinch/Linux_Full_Set_BackEnd
